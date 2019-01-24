@@ -1,5 +1,5 @@
 ================
-solr6-formula
+solr4-formula
 ================
 
 A saltstack formula to install and configure Solr 4.
