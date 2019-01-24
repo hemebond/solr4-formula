@@ -1,0 +1,7 @@
+solr4:
+  lookup:
+    version: 4.10.4
+    archive:
+      # Download from a specific mirror. Must correlate with version.
+      source: https://archive.apache.org/dist/lucene/solr/4.10.4/solr-4.10.4.tgz
+      source_hash: https://archive.apache.org/dist/lucene/solr/4.10.4/solr-4.10.4.tgz.md5
